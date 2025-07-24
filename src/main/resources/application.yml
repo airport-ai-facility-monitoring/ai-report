@@ -1,6 +1,6 @@
 gemini:
   api:
-    key: AIzaSyAoK-Q6QX8SpMtqmoFvLCx9OLPC7x0dNQw
+    key: 내ip
 
 spring:
   datasource:
